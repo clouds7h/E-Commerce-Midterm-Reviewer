@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>E-Commerce Reviewer</title>
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
+<body>
+  <header class="container">
+    <h1>E-Commerce Midterm Reviewer</h1>
+    <p class="sub">
+      Answer a question and you'll get feedback immediately. Your score updates live.
+    </p>
+
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search (e.g., B2B, auction, portal)..." />
+      <div class="stats">
+        <span id="statAnswered">0</span>/<span id="statTotal">0</span> answered
+        · <span id="statCorrect">0</span> correct
+      </div>
+      <button id="resetBtn" type="button">Reset</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="quiz" class="quiz"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
