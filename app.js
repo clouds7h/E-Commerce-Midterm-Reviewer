@@ -731,7 +731,7 @@ const QUESTIONS = [
     "answer": 1
   },
   {
-    "q": "which technology?",
+    "q": "Location-based e-commerce uses which technology?",
     "choices": [
       "GPS",
       "RFID",
@@ -968,7 +968,7 @@ const QUESTIONS = [
       "Direct marketing",
       "Affiliate marketing"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "q": "Which of the following is NOT a component of the EC framework?",
