@@ -721,7 +721,7 @@ const QUESTIONS = [
     "answer": 1
   },
   {
-    "q": "Which of the following is NOT an advantage of e-tailing for customers? Location-based e-commerce uses",
+    "q": "Which of the following is NOT an advantage of e-tailing for customers?",
     "choices": [
       "Shop anytime and anywhere",
       "Physical inspection of all products",
